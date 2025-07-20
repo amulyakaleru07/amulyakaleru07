@@ -1,52 +1,70 @@
- Hi there, I'm Amulya Kaleru!
+# 👋 Hi there, I'm Amulya Kaleru!
 
-🎓 I'm currently a B.Tech 3rd year student at GITAM University, Hyderabad, specializing in Computer Science and Engineering.
-I'm a passionate and hardworking aspiring Software Development Engineer (SDE) with a deep interest in solving real-world problems through technology.
+🎓I’m currently an **undergraduate Computer Science student, Hyderabad.  
+I’m a **hardworking, passionate aspiring Software Development Engineer (SDE)** with a deep interest in solving real-world problems using practical, modern tech.
+
+---
 
 ## 💼 About Me
 
--  Currently – working on MERN and new evolving Technologies
--  Proficient in: Python, Java, C, and JavaScript
--  Web Tech Stack: HTML, CSS,JavaScript, React,Node.js
--  Core CS Subjects: Data Structures, Operating Systems, DBMS, Computer Networks
--  Interested in: Web Development, Machine Learning,  and Generative AI
+- 🛠️ **Skilled with the **MERN stack**, **AI**, and modern web technologies.
+- 💻 **Languages:** Python, Java, C, JavaScript.
+- 🌐 **Web Tech:** HTML, CSS, JavaScript, React, Node.js.
+- ⚙️ **Core CS Subjects:** Data Structures, Operating Systems, DBMS, Computer Networks.
+- 🔍 **Interests:** Full-Stack Web Development, Machine Learning, Generative AI.
 
+---
 
 ## 🚀 Projects
 
-Here are a few highlighted projects I've worked on:
+Here are some highlights from what I’ve built recently:
 
-- 🔬 [Personalized Medical Recommendation System](https://github.com/amulyakaleru07/Symptom-Based-Disease-Diagnosis-Web-App) — ML + Flask-based app that gives medical recommendations.
-- ✅ [Online To-Do List App](https://github.com/amulyakaleru07/Todo-List-App) — Full-stack app for task management with user authentication.
-- 🎮 [Tic-Tac-Toe Game in C](https://github.com/your-link) — A simple terminal-based game written in C.
-- 📧 [Spam Classifier using NLP](https://github.com/your-link) — Built using Scikit-learn, TF-IDF, and text preprocessing techniques.
-- 🎵 [Spotify Clone](https://github.com/amulyakaleru07/Spotify-clone) — Built using HTML and CSS for UI practice.
+- 🎓 [**Learning Management System (LMS)**](https://github.com/amulyakaleru07/learning-management-system) —  
+  A complete MERN-stack LMS with user authentication via **Clerk**, secure payments through **Stripe**, Cloudinary media management, and modern styling with TailwindCSS and DaisyUI. Backend deployed on Vercel and thoroughly tested with Postman.
 
->  You can explore all of my repositories (https://github.com/amulyakaleru07)!
+- 🔬 [**Personalized Medical Recommendation System**](https://github.com/amulyakaleru07/Symptom-Based-Disease-Diagnosis-Web-App) —  
+  A Flask-based ML app that predicts possible diseases based on user symptoms and provides tailored medical suggestions.
 
+- 📧 [**Email Spam Classification**](https://github.com/amulyakaleru07/Email-Spam-Classification) —  
+  NLP-based Python project using Scikit-learn and TF-IDF Vectorization to classify spam and ham emails.
+
+- ✅ [**Online To-Do List App**](https://github.com/amulyakaleru07/Todo-List-App) —  
+  A simple full-stack task management app with user authentication.
+
+- 🎵 [**Spotify Clone**](https://github.com/amulyakaleru07/Spotify-clone) —  
+  A static UI clone of Spotify built for HTML and CSS practice.
+
+- 🎮 **Tic-Tac-Toe Game in C** —  
+  A simple terminal-based game implemented in C. 
+
+> 📌 You can explore all my repositories [here](https://github.com/amulyakaleru07).
+
+---
 
 ## 🏆 Achievements
 
-- 🥇 5-Star Gold in Python – HackerRank
-- 🥉 Bronze in Java and Problem Solving –HackerRank
-- ✅ Certified in: C for Everyone, Python Data Structures, Python Basics,AWS
-- 🚀 Participated in Smart India Hackathon (Software Category) and been top 10th team .
+- 🥇 **5-Star Gold badge in Python** — HackerRank  
+- 🥉 Bronze badges in Java and Problem Solving — HackerRank  
+- 📜 Certified in **C for Everyone**, **Python Data Structures**, **Python Basics**, **AWS**  
+- 🏆 Participated in **Smart India Hackathon** (Software Category) — Top 10 team solving real-world challenges.
 
+---
 
-##  Currently Learning
+## 📚 Currently Learning
 
-- 🔁 Dynamic Programming
-- 🌍 Full-Stack Web Development
-- ⚡️ Generative AI for real-world applications
+- 🔁 Dynamic Programming & Advanced DSA.
+- 🌐 Full-Stack Web Development with modern stacks.
+- 🤖 Generative AI for real-world applications.
 
+---
 
-##  Let's Connect
+## 🤝 Let’s Connect
 
-- 📧 Email: kaleruamulya123@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/amulyakaleru)
-- 🧑‍💻 [GitHub](https://github.com/amulyakaleru07)
+- 📧 **Email:** kaleruamulya123@gmail.com  
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/amulyakaleru)  
+- 🧑‍💻 [**GitHub**](https://github.com/amulyakaleru07)
 
- ✨ “Code. Build. Learn. Repeat.”
+---
 
-Thanks for visiting my profile! 
+✨ **“Code. Build. Learn. Repeat.”**
 
